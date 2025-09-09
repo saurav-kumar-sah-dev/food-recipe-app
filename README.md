@@ -5,8 +5,10 @@ Search, explore, and save your favourite recipes with a clean and fully responsi
 
 ---
 
-## 🌐 Connect with Me  
-🔗 [Saurav Kumar Sah - LinkedIn](https://www.linkedin.com/in/sauravkumarsah-dev/)
+## 🌐 Connect & Try  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurav_Kumar_Sah-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sauravkumarsah-dev/)  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://food-recipe-app-topaz.vercel.app/)
 
 ---
 
@@ -46,6 +48,3 @@ Search, explore, and save your favourite recipes with a clean and fully responsi
 - ✅ Fully responsive modern UI  
 - ✅ Optimized performance with **React Context API**  
 - ✅ Built using **React + Tailwind CSS**  
-
- 
-
