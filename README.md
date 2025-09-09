@@ -5,21 +5,21 @@ Search, explore, and save your favourite recipes with a clean and fully responsi
 
 ---
 
-## 🚀 Live Demo  
-🔗 [Click Here to View](https://your-live-link.vercel.app) *(Replace with your deployed link)*
+## 🌐 Connect with Me  
+🔗 [Saurav Kumar Sah - LinkedIn](https://www.linkedin.com/in/sauravkumarsah-dev/)
 
 ---
 
 ## 📸 Screenshots  
 
 ### 🏠 Home Page
-![Home Page](https://via.placeholder.com/900x500.png?text=Home+Page)
+![Home Page](https://drive.google.com/uc?export=view&id=1BqCP0yn3-XHTWIywXi-uUC8c0up1zFIo)
 
 ### 📜 Recipe Details
-![Details Page](https://via.placeholder.com/900x500.png?text=Recipe+Details+Page)
+![Details Page](https://drive.google.com/uc?export=view&id=1_ACTF2gT-7kykyDAtdmMPkBvcPqPqSfC)
 
 ### ❤️ Favourites Page
-![Favourites Page](https://via.placeholder.com/900x500.png?text=Favourites+Page)
+![Favourites Page](https://drive.google.com/uc?export=view&id=1Ov6XaSU1-iFo1Tnce_iHkPirxhcvv3Um)
 
 ---
 
@@ -47,4 +47,5 @@ Search, explore, and save your favourite recipes with a clean and fully responsi
 - ✅ Optimized performance with **React Context API**  
 - ✅ Built using **React + Tailwind CSS**  
 
+ 
 
